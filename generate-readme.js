@@ -12,6 +12,7 @@ var repos = {
         'js-heap-tests',
         'js-splay-tree',
         'py-data-structures',
+        'ts-avl-tree',
         'ts-fibonacci-heap',
     ],
     'Sorting': [

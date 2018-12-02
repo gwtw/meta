@@ -14,6 +14,7 @@ var repos = {
         'py-data-structures',
         'ts-avl-tree',
         'ts-fibonacci-heap',
+        'ts-splay-tree'
     ],
     'Sorting': [
         'csharp-sorting',
